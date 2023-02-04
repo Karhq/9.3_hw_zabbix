@@ -10,7 +10,7 @@
 
 ### Ответ:  
 Созданный шаблон 
-![Скрин](https://github.com/Karhq/9.3_hw_zabbix/blob/main/Задание%201.png)  
+![Скрин](https://github.com/Karhq/9.3_hw_zabbix/blob/main/Задание%201.png)    
  ---
 
 ### Задание 2
@@ -22,7 +22,7 @@
 ### Ответ:  
 Привязанные хосты
 ![Скрин](https://github.com/Karhq/9.3_hw_zabbix/blob/main/Задание%202.png)  
- ---
+ ---  
 
 ### Задание 3
 
