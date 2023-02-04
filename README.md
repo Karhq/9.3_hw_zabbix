@@ -10,7 +10,7 @@
 
 ### Ответ:  
 Созданный шаблон 
-![Скрин](https://github.com/Karhq/9.3_hw_zabbix/blob/main/Задание%201.png)    
+![Скрин](https://github.com/Karhq/9.3_hw_zabbix/blob/main/task%201.png)    
  ---
 
 ### Задание 2
@@ -21,7 +21,7 @@
 
 ### Ответ:  
 Привязанные хосты
-![Скрин](https://github.com/Karhq/9.3_hw_zabbix/blob/main/Задание%202.png)  
+![Скрин](https://github.com/Karhq/9.3_hw_zabbix/blob/main/task%202.png)  
  ---  
 
 ### Задание 3
@@ -31,7 +31,8 @@
 *Сохраните в Git скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения.*
 
 ### Ответ:  
-
+Привязали шаблон к хотсам
+![Скрин](https://github.com/Karhq/9.3_hw_zabbix/blob/main/task%202-3.png)  
  ---
 
 ### Задание 4
