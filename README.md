@@ -42,6 +42,4 @@
 *Сохраните в Git скриншот дашборда с названием «Задание 4».*
 
 ### Ответ:  
-![Скрин](https://github.com/Karhq/9.3_hw_zabbix/blob/main/task%202-3.png)
-
-### Ответ:  
+![Скрин]([https://github.com/Karhq/9.3_hw_zabbix/blob/main/task%202-3.png](https://github.com/Karhq/9.3_hw_zabbix/blob/main/task%204.png))
